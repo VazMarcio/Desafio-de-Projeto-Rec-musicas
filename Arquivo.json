@@ -1,0 +1,410 @@
+[
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "name": "Marcio"
+      },
+      "elementId": "4:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:0"
+    },
+    "r": {
+      "identity": 1152923703630102528,
+      "start": 0,
+      "end": 9,
+      "type": "LISTENED_TO",
+      "properties": {
+        "play_count": 20
+      },
+      "elementId": "5:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:1152923703630102528",
+      "startNodeElementId": "4:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:0",
+      "endNodeElementId": "4:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:9"
+    },
+    "m": {
+      "identity": 9,
+      "labels": [
+        "Track"
+      ],
+      "properties": {
+        "year": 1975,
+        "name": "Bohemian Rhapsody",
+        "energy": 0.9
+      },
+      "elementId": "4:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:9"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "name": "Marcio"
+      },
+      "elementId": "4:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:0"
+    },
+    "r": {
+      "identity": 1152924803141730304,
+      "start": 0,
+      "end": 3,
+      "type": "LIKES",
+      "properties": {},
+      "elementId": "5:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:1152924803141730304",
+      "startNodeElementId": "4:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:0",
+      "endNodeElementId": "4:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:3"
+    },
+    "m": {
+      "identity": 3,
+      "labels": [
+        "Artist"
+      ],
+      "properties": {
+        "name": "Queen"
+      },
+      "elementId": "4:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:3"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "name": "Marcio"
+      },
+      "elementId": "4:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:0"
+    },
+    "r": {
+      "identity": 1152925902653358080,
+      "start": 0,
+      "end": 1,
+      "type": "FOLLOWS",
+      "properties": {},
+      "elementId": "5:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:1152925902653358080",
+      "startNodeElementId": "4:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:0",
+      "endNodeElementId": "4:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:1"
+    },
+    "m": {
+      "identity": 1,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "name": "Ana"
+      },
+      "elementId": "4:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "name": "Marcio"
+      },
+      "elementId": "4:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:0"
+    },
+    "r": {
+      "identity": 1155177702467043328,
+      "start": 0,
+      "end": 2,
+      "type": "FOLLOWS",
+      "properties": {},
+      "elementId": "5:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:1155177702467043328",
+      "startNodeElementId": "4:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:0",
+      "endNodeElementId": "4:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:2"
+    },
+    "m": {
+      "identity": 2,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "name": "Carlos"
+      },
+      "elementId": "4:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:2"
+    }
+  },
+  {
+    "n": {
+      "identity": 1,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "name": "Ana"
+      },
+      "elementId": "4:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:1"
+    },
+    "r": {
+      "identity": 1152923703630102529,
+      "start": 1,
+      "end": 10,
+      "type": "LISTENED_TO",
+      "properties": {
+        "play_count": 10
+      },
+      "elementId": "5:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:1152923703630102529",
+      "startNodeElementId": "4:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:1",
+      "endNodeElementId": "4:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:10"
+    },
+    "m": {
+      "identity": 10,
+      "labels": [
+        "Track"
+      ],
+      "properties": {
+        "year": 2015,
+        "name": "Hello",
+        "energy": 0.4
+      },
+      "elementId": "4:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:10"
+    }
+  },
+  {
+    "n": {
+      "identity": 2,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "name": "Carlos"
+      },
+      "elementId": "4:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:2"
+    },
+    "r": {
+      "identity": 1152923703630102530,
+      "start": 2,
+      "end": 11,
+      "type": "LISTENED_TO",
+      "properties": {
+        "play_count": 15
+      },
+      "elementId": "5:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:1152923703630102530",
+      "startNodeElementId": "4:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:2",
+      "endNodeElementId": "4:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:11"
+    },
+    "m": {
+      "identity": 11,
+      "labels": [
+        "Track"
+      ],
+      "properties": {
+        "year": 2008,
+        "name": "Viva La Vida",
+        "energy": 0.6
+      },
+      "elementId": "4:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:11"
+    }
+  },
+  {
+    "n": {
+      "identity": 9,
+      "labels": [
+        "Track"
+      ],
+      "properties": {
+        "year": 1975,
+        "name": "Bohemian Rhapsody",
+        "energy": 0.9
+      },
+      "elementId": "4:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:9"
+    },
+    "r": {
+      "identity": 1152921504606846985,
+      "start": 9,
+      "end": 3,
+      "type": "PERFORMED_BY",
+      "properties": {},
+      "elementId": "5:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:1152921504606846985",
+      "startNodeElementId": "4:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:9",
+      "endNodeElementId": "4:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:3"
+    },
+    "m": {
+      "identity": 3,
+      "labels": [
+        "Artist"
+      ],
+      "properties": {
+        "name": "Queen"
+      },
+      "elementId": "4:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:3"
+    }
+  },
+  {
+    "n": {
+      "identity": 9,
+      "labels": [
+        "Track"
+      ],
+      "properties": {
+        "year": 1975,
+        "name": "Bohemian Rhapsody",
+        "energy": 0.9
+      },
+      "elementId": "4:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:9"
+    },
+    "r": {
+      "identity": 1152922604118474761,
+      "start": 9,
+      "end": 6,
+      "type": "HAS_GENRE",
+      "properties": {},
+      "elementId": "5:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:1152922604118474761",
+      "startNodeElementId": "4:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:9",
+      "endNodeElementId": "4:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:6"
+    },
+    "m": {
+      "identity": 6,
+      "labels": [
+        "Genre"
+      ],
+      "properties": {
+        "name": "Rock"
+      },
+      "elementId": "4:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:6"
+    }
+  },
+  {
+    "n": {
+      "identity": 10,
+      "labels": [
+        "Track"
+      ],
+      "properties": {
+        "year": 2015,
+        "name": "Hello",
+        "energy": 0.4
+      },
+      "elementId": "4:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:10"
+    },
+    "r": {
+      "identity": 1152921504606846986,
+      "start": 10,
+      "end": 4,
+      "type": "PERFORMED_BY",
+      "properties": {},
+      "elementId": "5:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:1152921504606846986",
+      "startNodeElementId": "4:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:10",
+      "endNodeElementId": "4:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:4"
+    },
+    "m": {
+      "identity": 4,
+      "labels": [
+        "Artist"
+      ],
+      "properties": {
+        "name": "Adele"
+      },
+      "elementId": "4:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:4"
+    }
+  },
+  {
+    "n": {
+      "identity": 10,
+      "labels": [
+        "Track"
+      ],
+      "properties": {
+        "year": 2015,
+        "name": "Hello",
+        "energy": 0.4
+      },
+      "elementId": "4:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:10"
+    },
+    "r": {
+      "identity": 1152922604118474762,
+      "start": 10,
+      "end": 7,
+      "type": "HAS_GENRE",
+      "properties": {},
+      "elementId": "5:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:1152922604118474762",
+      "startNodeElementId": "4:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:10",
+      "endNodeElementId": "4:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:7"
+    },
+    "m": {
+      "identity": 7,
+      "labels": [
+        "Genre"
+      ],
+      "properties": {
+        "name": "Pop"
+      },
+      "elementId": "4:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:7"
+    }
+  },
+  {
+    "n": {
+      "identity": 11,
+      "labels": [
+        "Track"
+      ],
+      "properties": {
+        "year": 2008,
+        "name": "Viva La Vida",
+        "energy": 0.6
+      },
+      "elementId": "4:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:11"
+    },
+    "r": {
+      "identity": 1152921504606846987,
+      "start": 11,
+      "end": 5,
+      "type": "PERFORMED_BY",
+      "properties": {},
+      "elementId": "5:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:1152921504606846987",
+      "startNodeElementId": "4:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:11",
+      "endNodeElementId": "4:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:5"
+    },
+    "m": {
+      "identity": 5,
+      "labels": [
+        "Artist"
+      ],
+      "properties": {
+        "name": "Coldplay"
+      },
+      "elementId": "4:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:5"
+    }
+  },
+  {
+    "n": {
+      "identity": 11,
+      "labels": [
+        "Track"
+      ],
+      "properties": {
+        "year": 2008,
+        "name": "Viva La Vida",
+        "energy": 0.6
+      },
+      "elementId": "4:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:11"
+    },
+    "r": {
+      "identity": 1152922604118474763,
+      "start": 11,
+      "end": 8,
+      "type": "HAS_GENRE",
+      "properties": {},
+      "elementId": "5:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:1152922604118474763",
+      "startNodeElementId": "4:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:11",
+      "endNodeElementId": "4:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:8"
+    },
+    "m": {
+      "identity": 8,
+      "labels": [
+        "Genre"
+      ],
+      "properties": {
+        "name": "Indie"
+      },
+      "elementId": "4:6d8880aa-75c9-4987-a5fd-7e7dd3eb059a:8"
+    }
+  }
+]
