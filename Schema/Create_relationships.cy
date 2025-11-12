@@ -1,4 +1,4 @@
-
+Criando os Relacionamentos
 
 MATCH (t:Track {name:"Bohemian Rhapsody"}), (a:Artist {name:"Queen"}), (g:Genre {name:"Rock"})
 MERGE (t)-[:PERFORMED_BY]->(a)

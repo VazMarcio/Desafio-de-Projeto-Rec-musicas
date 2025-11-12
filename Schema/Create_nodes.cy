@@ -1,4 +1,4 @@
-// Criação de nós principais
+// Criação de nós principais para o projeto
 
 CREATE (:User {name: "Marcio"}),
        (:User {name: "Ana"}),
