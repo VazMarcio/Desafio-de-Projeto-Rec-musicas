@@ -1,3 +1,4 @@
+
 MATCH (u:User {name:"Marcio"}), (t:Track {name:"Bohemian Rhapsody"})
 MERGE (u)-[:LISTENED_TO {play_count: 20}]->(t);
 
