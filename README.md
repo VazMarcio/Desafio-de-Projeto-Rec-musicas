@@ -32,14 +32,14 @@ Projeto desenvolvido para explorar grafos como base para sistemas de recomendaç
 
 | Pasta | Arquivos |
 |-------|----------|
-|📊 Data   | 🤝 Samle_interaction.cy|
+|📊 Data   | 🤝 Sample_interaction.cy|
 |       | 🎵 Sample_tracks.cy|
 |       | 👤 Sample_users.cy |
-|🔍 Queries |🎤 Recomend_by_artist.cy|
-|         |👥Recomend_by_friends.cy|
-|         |🎶Recomend_by_genre.cy|
+|🔍 Queries |🎤 Recommend_by_artist.cy|
+|         |👥Recommend_by_friends.cy|
+|         |🎶Recommend_by_genre.cy|
 |🗂️Schema |⚖️Constraints.cy|
-|        |🧩reate_nodes.cy|
+|        |🧩Create_nodes.cy|
 |        |🔗Create_relationships.cy|
 |🛠️Utils  |🗑️Delete_all.cy|
 |        |♻️Delete_database.cy|
